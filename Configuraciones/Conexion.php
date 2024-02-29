@@ -16,7 +16,7 @@ class Conexion{
 
 		$servername = "localhost";
 		$username = "root";
-		$password = "";
+		$password = "Wixito$1";
 		$database = "george";
 	
 		
