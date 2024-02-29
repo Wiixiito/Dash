@@ -14,7 +14,7 @@ class Conexion{
 	public function conectar(){
 
 
-		$servername = "45.55.68.147";
+		$servername = "localhost";
 		$username = "root";
 		$password = "Wixito$1";
 		$database = "george";
