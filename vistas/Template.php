@@ -114,7 +114,7 @@
             <!-- Footer -->
             <div class="legal">
                 <div class="copyright">
-                    &copy; 2023 - 2024 <a>George Dashboard</a>.
+                    &copy; 2023 - 2024 <a>George Dashboardaaaaaaaaaaa</a>.
                 </div>
                 <div class="version">
                     <b>Version: </b> 1.0.1

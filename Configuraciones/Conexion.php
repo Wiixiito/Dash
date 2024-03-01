@@ -14,10 +14,15 @@ class Conexion{
 	public function conectar(){
 
 
-		$servername = "localhost";
+		/*$servername = "localhost";
 		$username = "root";
 		$password = "Wixito$1";
-		$database = "george";
+		$database = "george";*/
+
+			$servername = "localhost";
+		$username = "u682869943_george";
+		$password = "George957lolwixi";
+		$database = "u682869943_george";
 	
 		
 
